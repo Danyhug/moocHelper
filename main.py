@@ -12,8 +12,8 @@ import re
 from io import BytesIO
 from PIL import Image
 
-userName = 'mapengcheng'  # 用户名
-passWord = 'Hh153669225'  # 密码
+userName = ''  # 用户名
+passWord = ''  # 密码
 
 # 请求头
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) '
